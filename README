@@ -1,0 +1,8 @@
+1. Relative stability: Pegged to the dollar
+    1. Chainlink price feed
+    2. Ste a funtion to exchange ETCH & BTC -> $$$
+2. Minting: algorithmic
+    1. People can only mint the stablecoin with enough collateral (coded)
+3. Collateral: exogenous (crypto)
+    1. wETH
+    2. wBTC
